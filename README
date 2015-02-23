@@ -1,0 +1,118 @@
+edutils - an educational re-implementation of the GNU coreutils
+
+edutils is intended to be an educational project. Therefore, code clarity will
+always take precedence over execution speed, binary size, and programming style.
+
+Copyright 2015 zach wick <zach@zachwick.com>
+Licensed under the GNU GPLv3 or later
+
+1. edutils vs GNU coreutils:
+----------------------------
+------------------------------------------------
+| edutils program | coreutils program | status |
+------------------------------------------------
+|                 | chcon             | to do  |
+|                 | chgrp             | to do  |
+|                 | chown             | to do  |
+|                 | chmod             | to do  |
+|                 | cp                | to do  |
+|                 | dd                | to do  |
+|                 | df                | to do  |
+|                 | dir (ls -C -b)    | to do  |
+|                 | dircolors         | to do  |
+|                 | install           | to do  |
+|                 | ln                | to do  |
+| ml              | ls                | in dev |
+|                 | mkdir             | to do  |
+|                 | mkfifo            | to do  |
+|                 | mknod             | to do  |
+|                 | mktemp            | to do  |
+|                 | mv                | to do  |
+|                 | realpath          | to do  |
+|                 | rm                | to do  |
+|                 | rmdir             | to do  |
+|                 | shred             | to do  |
+|                 | sync              | to do  |
+|                 | touch             | to do  |
+|                 | truncate          | to do  |
+|                 | vdir (ls -l -b)   | to do  |
+|                 | base64            | to do  |
+|                 | cat               | to do  |
+|                 | cksum             | to do  |
+|                 | comm              | to do  |
+|                 | csplit            | to do  |
+|                 | cut               | to do  |
+|                 | expand            | to do  |
+|                 | fmt               | to do  |
+|                 | fold              | to do  |
+|                 | head              | to do  |
+|                 | join              | to do  |
+|                 | md5sum            | to do  |
+|                 | nl                | to do  |
+|                 | numfmt            | to do  |
+|                 | od                | to do  |
+|                 | paste             | to do  |
+|                 | ptx               | to do  |
+|                 | pr                | to do  |
+|                 | sha1sum           | to do  |
+|                 | sha224sum         | to do  |
+|                 | sha256sum         | to do  |
+|                 | sha384sum         | to do  |
+|                 | sha512sum         | to do  |
+|                 | shuf              | to do  |
+|                 | sort              | to do  |
+|                 | split             | to do  |
+|                 | sum               | to do  |
+|                 | tac               | to do  |
+|                 | tail              | to do  |
+|                 | tr                | to do  |
+|                 | tsort             | to do  |
+|                 | unexpand          | to do  |
+|                 | uniq              | to do  |
+|                 | wc                | to do  |
+|                 | arch              | to do  |
+|                 | basename          | to do  |
+|                 | chroot            | to do  |
+|                 | date              | to do  |
+|                 | dirname           | to do  |
+|                 | du                | to do  |
+|                 | echo              | to do  |
+|                 | env               | to do  |
+|                 | expr              | to do  |
+|                 | factor            | to do  |
+|                 | false             | to do  |
+|                 | groups            | to do  |
+|                 | hostid            | to do  |
+|                 | id                | to do  |
+|                 | link              | to do  |
+|                 | logname           | to do  |
+|                 | nice              | to do  |
+|                 | nohup             | to do  |
+|                 | nproc             | to do  |
+|                 | pathchk           | to do  |
+|                 | pinky             | to do  |
+|                 | printenv          | to do  |
+|                 | printf            | to do  |
+|                 | pwd               | to do  |
+|                 | readlink          | to do  |
+|                 | runcon            | to do  |
+|                 | seq               | to do  |
+|                 | sleep             | to do  |
+|                 | stat              | to do  |
+|                 | stdbuf            | to do  |
+|                 | stty              | to do  |
+|                 | tee               | to do  |
+|                 | test              | to do  |
+|                 | timeout           | to do  |
+|                 | true              | to do  |
+|                 | tty               | to do  |
+|                 | uname             | to do  |
+|                 | unlink            | to do  |
+|                 | uptime            | to do  |
+|                 | users             | to do  |
+|                 | who               | to do  |
+|                 | whoami            | to do  |
+|                 | yes               | to do  |
+------------------------------------------------
+
+
