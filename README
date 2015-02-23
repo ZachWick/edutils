@@ -93,7 +93,7 @@ Licensed under the GNU GPLv3 or later
 |                 | pinky             | to do  |
 |                 | printenv          | to do  |
 |                 | printf            | to do  |
-|                 | pwd               | to do  |
+| pwd             | pwd               | in dev |
 |                 | readlink          | to do  |
 |                 | runcon            | to do  |
 |                 | seq               | to do  |

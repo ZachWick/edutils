@@ -1,3 +1,6 @@
 [submodule "ml"]
 	path = ml
 	url = git@github.com:zachwick/ml
+[submodule "pwd"]
+	path = pwd
+	url = git@github.com:ZachWick/pwd.git
